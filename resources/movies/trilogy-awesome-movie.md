@@ -1,6 +1,5 @@
-<h1>My awesome movie</h1>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas hic quos
+# Trologie awesome movie
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas hic quos
      expedita? Optio minus culpa cumque, aspernatur eligendi repudiandae architecto? Non
       eius tenetur temporibus voluptas omnis quos quam, molestiae animi 
-    voluptatum aut modi.</p>
+    voluptatum aut modi.
